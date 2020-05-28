@@ -1,5 +1,5 @@
 {
-  "name": "follow-redirects-cli",
+  "name": "follow-redirects-cli-2",
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
@@ -9,7 +9,7 @@
     "ora": "^4.0.4"
   },
   "bin": {
-    "follow-redirects-cli": "bin/followRedirectCli.js"
+    "follow-redirects-cli-2": "bin/followRedirectCli.js"
   },
   "devDependencies": {},
   "scripts": {
